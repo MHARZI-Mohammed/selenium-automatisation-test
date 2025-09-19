@@ -1,0 +1,4 @@
+Num_cas_test;mail;pwd
+1;test@example.com;password123
+2;wrong@example.com;wrongpass
+3;user@example.com;mypassword
